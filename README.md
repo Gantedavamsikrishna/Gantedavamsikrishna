@@ -2,7 +2,7 @@
 
 <!--Banner-->
 
-![vamsi9920 Banner Image](./mybanner.gif)
+![Kiran1689 Banner Image](./mybanner.gif)
 
 <!--Night Owl image-->
 
