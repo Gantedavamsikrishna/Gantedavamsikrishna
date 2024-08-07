@@ -12,7 +12,7 @@
 
 <!--Header Name-->
 
-# `<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>` ɪ'ᴍ vamsi krishna!
+`<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>` ɪ'ᴍ vamsi krishna!
 
 _Digital Craftsman (Developer / Programmer)_
 `<br />`
