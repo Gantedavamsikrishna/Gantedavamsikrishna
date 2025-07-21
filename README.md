@@ -1,6 +1,6 @@
-`<!--Banner-->
+VamsiKrishna Ganteda<!--Banner-->
 
-![Kiran1689 Banner Image](./mybanner.gif)
+![Vamsi Banner Image](./mybanner.gif)
 
 <!--Header Name-->
 
