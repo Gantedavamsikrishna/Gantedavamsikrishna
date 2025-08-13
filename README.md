@@ -1,6 +1,6 @@
 VamsiKrishna Ganteda<!--Banner-->
 
-![Vamsi Banner Image](./mybanner.gif)
+![Vamsi Banner Image](./gitprofile.gif)
 
 <!--Header Name-->
 
@@ -137,3 +137,4 @@ VamsiKrishna Ganteda<!--Banner-->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 `
+
